@@ -6,6 +6,7 @@ PROCESS-NAME,NetTransport.exe
 PROCESS-NAME,Thunder.exe
 PROCESS-NAME,Transmission.exe
 PROCESS-NAME,uTorrent.exe
+PROCESS-NAME,qbittorrent.exe
 PROCESS-NAME,WebTorrent.exe
 PROCESS-NAME,WebTorrent Helper.exe
 # bt
