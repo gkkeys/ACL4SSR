@@ -33,3 +33,7 @@ DOMAIN,tracking.miui.com
 # General
 DOMAIN,app.adjust.com
 DOMAIN,bdtj.tagtic.cn
+
+# Dashboard
+DOMAIN,yacd.haishan.me
+DOMAIN,clash.razord.top
